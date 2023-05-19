@@ -1,0 +1,5 @@
+{
+	"Tool_Canu.input_type": "-pacbio-raw",
+	"Tool_Canu.input_fastq": "./input.fasta",
+	"Tool_Canu.genome_size": "4.8"
+}
